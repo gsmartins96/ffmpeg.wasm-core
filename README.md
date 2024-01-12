@@ -1,4 +1,4 @@
-FFmpeg.wasm Core
+FFmpeg.wasm Core (SingleThread)
 ================
 
 ## Deprecated, merge to https://github.com/ffmpegwasm/ffmpeg.wasm as part of the monorepo.
